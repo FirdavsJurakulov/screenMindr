@@ -1,0 +1,20 @@
+{
+    "2024-12-09": {
+        "Total time": 2406,
+        "pycharm64.exe": 1086,
+        "explorer.exe": 393,
+        "LockApp.exe": 2,
+        "Taskmgr.exe": 152,
+        "WindowsTerminal.exe": 144,
+        "Ueli.exe": 54,
+        "python.exe": 114,
+        "chrome.exe": 435,
+        "ShellHost.exe": 17,
+        "ShellExperienceHost.exe": 9
+    },
+    "2025-04-24": {
+        "Total time": 15,
+        "WindowsTerminal.exe": 13,
+        "python.exe": 2
+    }
+}

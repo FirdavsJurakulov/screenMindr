@@ -1,0 +1,3 @@
+time_limit=30
+idle_timeout=120
+log_file=app_usage_log.json
